@@ -1,0 +1,12 @@
+{
+  "name": "autocomplete-bs",
+  "version": "0.1.0",
+  "description": "Ajax based auto complete for bootstrap 5 without jQuery",
+  "keywords": [
+    "autocomplete",
+    "boostrap"
+  ],
+  "main": "js/autocompleteBS.js",
+  "author": "@kanine",
+  "license": "MIT"
+}
