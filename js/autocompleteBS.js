@@ -1,4 +1,4 @@
-class AutocompleteBS {
+export default class AutocompleteBS {
 
     get _options_default() {
         return {
